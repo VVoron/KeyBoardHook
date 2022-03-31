@@ -1,0 +1,11 @@
+C:\Users\79994\source\repos\KeyboardHook\KeyboardHook\bin\Debug\KeyboardHook.exe.config
+C:\Users\79994\source\repos\KeyboardHook\KeyboardHook\bin\Debug\KeyboardHook.exe
+C:\Users\79994\source\repos\KeyboardHook\KeyboardHook\bin\Debug\KeyboardHook.pdb
+C:\Users\79994\source\repos\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.csproj.AssemblyReference.cache
+C:\Users\79994\source\repos\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.csproj.SuggestedBindingRedirects.cache
+C:\Users\79994\source\repos\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.Properties.Resources.resources
+C:\Users\79994\source\repos\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.csproj.GenerateResource.cache
+C:\Users\79994\source\repos\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.csproj.CoreCompileInputs.cache
+C:\Users\79994\source\repos\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.exe
+C:\Users\79994\source\repos\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.pdb
+C:\Users\79994\source\repos\KeyboardHook\KeyboardHook\obj\Debug\KeyboardHook.Form1.resources
