@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a93d82eb-316b-4430-9c80-6d5d07368527": {
+      "ProjectGuid": "a93d82eb-316b-4430-9c80-6d5d07368527",
+      "DisplayName": "KeyboardHook",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
